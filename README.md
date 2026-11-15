@@ -8,7 +8,7 @@ I'm Jonathan Scarpelli. I build native apps and developer tools as [Scarcrux](ht
 
 [Pathem](https://scarcrux.com/projects/pathem): a native macOS file manager with on-device semantic search. Private beta.
 
-[Textem](https://scarcrux.com/projects/textem): an unofficial native macOS app for Google Messages for web. Alpha.
+[Textem](https://scarcrux.com/projects/textem): an unofficial Mac wrapper for Google Messages for web. Alpha.
 
 [AgenticBot](https://scarcrux.com/projects/agenticbot): a Twitch bot and channel dashboard. Private beta.
 
