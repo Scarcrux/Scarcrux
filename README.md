@@ -8,7 +8,7 @@ I'm Jonathan Scarpelli. I build native apps and developer tools as [Scarcrux](ht
 
 [Pathem](https://scarcrux.com/projects/pathem): a fast, native, dual-pane file manager for macOS. Free and open source: [download](https://github.com/Scarcrux/Pathem/releases/latest) · [source](https://github.com/Scarcrux/Pathem).
 
-[Textem](https://scarcrux.com/projects/textem): an unofficial Mac wrapper for Google Messages for web. Alpha.
+[Textem](https://scarcrux.com/projects/textem): an unofficial Mac wrapper for Google Messages for web. Free public beta: [download](https://github.com/Scarcrux/Textem/releases/latest) · [source](https://github.com/Scarcrux/Textem).
 
 [AgenticBot](https://scarcrux.com/projects/agenticbot): a Twitch bot and channel dashboard. Private beta.
 
@@ -31,6 +31,8 @@ Working manuscripts, not peer reviewed.
 ### Code and writing
 
 [Pathem](https://github.com/Scarcrux/Pathem): source for the macOS file manager (MIT)
+
+[Textem](https://github.com/Scarcrux/Textem): source for the Google Messages wrapper (MIT)
 
 [oral-microbiome-transfer](https://github.com/Oralbiome/oral-microbiome-transfer): code for the cross-study transfer audit
 
