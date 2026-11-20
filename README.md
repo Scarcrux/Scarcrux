@@ -4,7 +4,7 @@ I'm Jonathan Scarpelli. I build native apps and developer tools as [Scarcrux](ht
 
 ### Built at Scarcrux
 
-[Commandem](https://scarcrux.com/projects/commandem): a local command center for coding agents. Private beta.
+[Commandem](https://commandem.ai): a local-first, open-source agentic orchestrator for Claude, Codex, Gemini and more. Free public beta November 26.
 
 [Pathem](https://scarcrux.com/projects/pathem): a fast, native, dual-pane file manager for macOS. Version 0.9.0, free and open source: [download](https://github.com/Scarcrux/Pathem/releases/latest) · [source](https://github.com/Scarcrux/Pathem).
 
