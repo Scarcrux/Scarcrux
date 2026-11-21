@@ -1,4 +1,4 @@
-I'm Jonathan Scarpelli. I build native apps and developer tools as [Scarcrux](https://scarcrux.com), and I do ML research on whether models and agents hold up under scrutiny. Research and writing are at [scarpelli.ai](https://www.scarpelli.ai).
+I'm Jonathan Scarpelli. Through my startup, [Scarcrux](https://scarcrux.com), I build native apps and developer tools and do ML research on whether models and agents hold up under scrutiny. Research and writing are at [scarpelli.ai](https://www.scarpelli.ai).
 
 <table><tr><td valign="top" width="34%">
 
